@@ -4,7 +4,7 @@ Full Stack Engineer with 2 years of production experience building React/TypeScr
 
 🎓 M.S. in Computer Science, University of South Florida
 🔍 Open to **Full Stack** and **AI-focused Engineering** roles
-🛂 Authorized to work in the U.S. on F-1 OPT (STEM-eligible) — no sponsorship required
+
 
 ---
 
